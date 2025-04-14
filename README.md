@@ -51,6 +51,7 @@ Technology enthusiast on a journey to become a full-stack developer. Passionate 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r34ll&theme=default&hide_border=false&hide=markdown,html&include_all_commits=true&count_private=true&layout=donut-vertical" alt="Top Languages" />
+  <br/>
   <a href="https://git.io/streak-stats"><img src="https://git-hub-streak-stats.vercel.app?user=r34ll&theme=default" alt="GitHub Streak" /></a>
 </div>
 
