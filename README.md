@@ -20,7 +20,7 @@
 
 <br/>
 
-Technology enthusiast on a journey to become a full-stack developer. Passionate about problem-solving, cybersecurity, and machine learning. Always looking for challenging projects to learn and grow.
+Technology enthusiast on a journey to become a Full-Stack Developer. Passionate about Problem-Solving, Cybersecurity, and Machine Learning. Always looking for challenging projects to learn and grow.
 
 ## 🛠 Tech Stack
 
